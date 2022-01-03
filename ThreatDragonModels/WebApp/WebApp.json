@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "WebApp"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WebAppDFD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
